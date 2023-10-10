@@ -1,3 +1,10 @@
+body {
+  background-color: #FAF9F6;
+  font-family: serif;
+}
+h1{
+  margin-top: 0;
+}
 td, th {
 	border: 1px solid;
 }

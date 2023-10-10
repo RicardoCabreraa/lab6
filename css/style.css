@@ -1,7 +1,15 @@
 td, th {
 	border: 1px solid;
-  }
+}
+p {
+  font-size: 2em;
+  line-height: 2em;
+  text-align: center;
+}
+#planets th {
+  background-color: #fgc;
+}
 #planets img {
-  width: 250px;
+  width: 300px;
   height: 200px;
 }

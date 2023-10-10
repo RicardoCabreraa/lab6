@@ -16,6 +16,10 @@ p {
 #planets th {
   background-color: #fgc;
 }
+#planets th, 
+#planets td {
+  text-align: center;
+}
 #planets img {
   width: 300px;
   height: 200px;
